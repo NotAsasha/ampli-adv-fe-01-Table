@@ -1,0 +1,36 @@
+body {
+    margin: 0px;
+
+    font-family: 'Trebuchet MS',verdana;
+    padding: 0px;
+}
+.headerik {
+    height: 100px;
+    background-color: #777d6a;
+}
+.menu {
+    width: 20%;
+    background-color:#999f8e
+    
+}
+.content {
+    width: 80%;
+    background-color:#d2d8c7
+}
+footer {
+    text-align: center;
+    height: 10%;
+    background-color:#777d6a;
+}
+main {
+    display: flex;
+    justify-content: center;
+    height: 75%;
+}
+a {
+    position: relative;
+margin-top: 10px;
+text-decoration-line: none;
+text-decoration: black;
+text-decoration-color: black;
+}
